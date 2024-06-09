@@ -1,4 +1,4 @@
-name = "design-system-wxample-coponents_hono"
+name = "design-system-example-coponents-hono"
 compatibility_date = "2024-04-01"
 compatibility_flags = [ "nodejs_compat" ]
 pages_build_output_dir = "./dist"
